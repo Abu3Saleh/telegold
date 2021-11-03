@@ -1,6 +1,5 @@
-Version 2.90. Changelog:
+الاصدار 2.90 سجل التغيرات:
 
->Update the base to the latest version in Google Play 8.0
->Fixed an offline problem on some devices
->Adding a lot of new features
->Bugs Fixed
+>[اصلاح] مشكلة الانهيار عند تحديث قائمة المتابعين
+>[اصلاح] مشكلة تكرار الايقونات عند تثبيت التحديث
+>[اصلاح] مشكلة اختفاء التطبيق في قائمة التطبيقات في اجهزة هواوي
