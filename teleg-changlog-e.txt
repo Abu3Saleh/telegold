@@ -1,6 +1,8 @@
-Version 2.95. Changelog:
+What's new in version 3.10:
 
->Update the base to the latest version in Google Play 8.0
->Fixed an offline problem on some devices
->Adding a lot of new features
->Bugs Fixed
+• Adding all the new features to the official Telegram.
+• Double press to send a quick message.
+• Clicking once on the message for more interaction symbols.
+• Adding an "obfuscation" format to hide some or all of the message's content.
+• Create custom codes for any account that has a username, for bots, for channels and public purchases.
+• More information and other updates.
