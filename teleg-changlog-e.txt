@@ -1,8 +1,10 @@
-What's new in version 3.15:
+What's new in version 3.20:
 
-• Adding all the new features to the official Telegram.
-• Double press to send a quick message.
-• Clicking once on the message for more interaction symbols.
-• Adding an "obfuscation" format to hide some or all of the message's content.
-• Create custom codes for any account that has a username, for bots, for channels and public purchases.
-• More information and other updates.
+• Video stickers, better interaction and more
+• Convert any video clip into an easy-to-create video collage in webm format.
+• Interact with new emojis: love, appreciation, anger or surprise.
+• Interactions with smaller animation effects.
+• Long press on any emoji in the interactions list to send the effects larger.
+• ♡ button in conversations to go to your messages that got unread interactions.
+• Quickly return to any conversation by pressing and holding the "Back" button.
+The full history of changes is inside the app or on our blog.
