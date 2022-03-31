@@ -1,10 +1,12 @@
-What's new in version 3.20:
+What's new in version 3.35:
 
-• Video stickers, better interaction and more
-• Convert any video clip into an easy-to-create video collage in webm format.
-• Interact with new emojis: love, appreciation, anger or surprise.
-• Interactions with smaller animation effects.
-• Long press on any emoji in the interactions list to send the effects larger.
-• ♡ button in conversations to go to your messages that got unread interactions.
-• Quickly return to any conversation by pressing and holding the "Back" button.
-The full history of changes is inside the app or on our blog.
+• Update Telegram Base 8.6.2
+• All new official Telegram features have been added.
+• Download manager, improved attachment list, amazing dark mode and more
+• Check the status of your downloads from the Search button, then Downloads.
+• Pause or resume all files or specific files.
+• Preview and rearrange media albums before sending them.
+• Enjoy semi-transparent effects for top chats and windows in dark mode.
+• Create an account or login with a redesigned interface with new animated effects.
+• Share a direct link to your phone number to open a conversation with you: like t.me/+123456789
+• More fixes and other improvements.
