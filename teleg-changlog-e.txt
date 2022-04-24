@@ -1,12 +1,4 @@
-What's new in version 3.35:
+New in version 3.40: 
 
-• Update Telegram Base 8.6.2
-• All new official Telegram features have been added.
-• Download manager, improved attachment list, amazing dark mode and more
-• Check the status of your downloads from the Search button, then Downloads.
-• Pause or resume all files or specific files.
-• Preview and rearrange media albums before sending them.
-• Enjoy semi-transparent effects for top chats and windows in dark mode.
-• Create an account or login with a redesigned interface with new animated effects.
-• Share a direct link to your phone number to open a conversation with you: like t.me/+123456789
-• More fixes and other improvements.
+• Fixed the issue of showing a notification that the application is malicious in Google Play protection.
+• Further fixes and other improvements
