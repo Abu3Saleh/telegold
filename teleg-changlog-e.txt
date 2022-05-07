@@ -1,4 +1,11 @@
-New in version 3.40: 
+New in version 3.50:
 
-• Fixed the issue of showing a notification that the application is malicious in Google Play protection.
-• Further fixes and other improvements
+ • notification sounds and much more
+ • convert any audio file to a dedicated short notice to any conversation tone.
+ • Disable any conversation notifications for a specific period of time.
+ • Turn off the sound alerts without disabling notifications.
+ • Set custom intervals to counter automatic deletion faster.
+ • Watch the video clips in the frame (picture in picture) redesigned.
+ • Knowledge of any of the messages transferred is a response to another message.
+ • Use powerful interfaces for bots look web pages.
+ Full record of the changes to the application Talagram.
