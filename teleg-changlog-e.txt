@@ -1,11 +1,13 @@
-New in version 3.50:
+New in version 3.60:
 
- • notification sounds and much more
- • convert any audio file to a dedicated short notice to any conversation tone.
- • Disable any conversation notifications for a specific period of time.
- • Turn off the sound alerts without disabling notifications.
- • Set custom intervals to counter automatic deletion faster.
- • Watch the video clips in the frame (picture in picture) redesigned.
- • Knowledge of any of the messages transferred is a response to another message.
- • Use powerful interfaces for bots look web pages.
- Full record of the changes to the application Talagram.
+• Added upload date of profile photos.
+• Option to load all recent stickers instead of only last 20.
+• Option to hide time in stickers.
+• Show if contact is mutual in contacts list (click on header to hide/show).
+• Option to change tap avatar action in chat.
+• Option to change tap and hold avatar action in chat.
+• Added cache size, database size and free space to plus details.
+• Added translate option to recent actions messages.
+• Option to show ’Pin’ button in main screen header.
+• Option to show last reaction instead of heart in main screen.
+• Bug fixes.
