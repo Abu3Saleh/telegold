@@ -1,4 +1,4 @@
-New in version 3.80
+New in version 3.90
 
 - Infinite Reactions, Emoji Statuses and More.
 - New expandable reaction menu and dozens of new reactions for all users.
