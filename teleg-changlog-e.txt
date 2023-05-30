@@ -1,10 +1,6 @@
-New in version 3.90
+New in version 4.40
 
-- Infinite Reactions, Emoji Statuses and More.
-- New expandable reaction menu and dozens of new reactions for all users.
-- Premium users can react with thousands of custom emoji, up to 3 per message.
-- Premium users can set an emoji status next to their name, choosing from thousands of emoji.
-- New format for public.
-- Downloads can be prioritized in the Download Manager.
-- Support for themed app icons on Android 13.
-- For more changes from this update, see the blog:
+• Shareable chat folders: you can share up to 200 chats using a single invite link.
+• Custom wallpapers: set an individual background for any chat between two people. Your chat partner can apply the same wallpaper or choose their own.
+• Better bots: launch web applications from any chat. Web applications in groups support collaboration and multiplayer features.
+• Other improvements: better video downloads and playback, improved SD card and Bluetooth headset support.
