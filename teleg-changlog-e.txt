@@ -1,6 +1,4 @@
-New in version 4.40
+New in version 5.10
 
-• Shareable chat folders: you can share up to 200 chats using a single invite link.
-• Custom wallpapers: set an individual background for any chat between two people. Your chat partner can apply the same wallpaper or choose their own.
-• Better bots: launch web applications from any chat. Web applications in groups support collaboration and multiplayer features.
-• Other improvements: better video downloads and playback, improved SD card and Bluetooth headset support.
+It contains many great new features.
+More important fixes and improvements.
