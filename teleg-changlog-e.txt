@@ -1,4 +1,4 @@
-New in version 5.40
+New in version 5.80
 
 It contains many great new features.
 More important fixes and improvements.
