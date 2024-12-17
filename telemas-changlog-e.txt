@@ -1,6 +1,4 @@
-Version 2.90. Changelog:
+New in version 11.4.2
 
->Update the base to the latest version in Google Play 8.0
->Fixed an offline problem on some devices
->Adding a lot of new features
->Bugs Fixed
+It contains many great new features.
+More important fixes and improvements.
